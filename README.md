@@ -16,12 +16,13 @@ First make sure you are on a system running Windows 8/10. [How to check?](https:
 
 ### Other
 ```
-• Scores is not implemented yet
-• The algorithm for the computer paddle moves needs to be refined
+• The score isn't working properly
+• Paddle/ball movement could be refined
+
 ```
 
 ### Tools
-* [Qt Creator](http://www.dropwizard.io/1.0.2/docs/) - Qt Creator is a cross-platform C++, JavaScript and QML integrated development environment
+* [Qt Creator](https://www.qt.io/product/development-tools) - Qt Creator is a cross-platform C++, JavaScript and QML integrated development environment
 
 
 ### Authors
