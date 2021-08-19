@@ -26,4 +26,4 @@ First make sure you are on a system running Windows 8/10. [How to check?](https:
 
 ### Authors
 
-* **Koffi Anderson Koffi**
+* **David Bush**
