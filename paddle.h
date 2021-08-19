@@ -12,7 +12,7 @@ class Paddle: public QObject, public QGraphicsRectItem
     Q_PROPERTY(int height READ height)
     Q_PROPERTY(int width READ width)
 
-public:
+public: // methods
     Paddle(); // constructor
     void keyReleaseEvent(QKeyEvent *event);
     enum MoveType {UP, DOWN};
@@ -23,7 +23,7 @@ public:
     int height();
     int width();
 
-protected:
+protected: // variables
     int paddle_height = 100;
     int paddle_width = 20;
     int paddle_movestep = 14;
