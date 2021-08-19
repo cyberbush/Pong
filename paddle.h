@@ -26,7 +26,7 @@ public: // methods
 protected: // variables
     int paddle_height = 100;
     int paddle_width = 20;
-    int paddle_movestep = 14;
+    int paddle_movestep = 15;
 };
 
 #endif // PADDLE_H
