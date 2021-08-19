@@ -14,15 +14,15 @@ First make sure you are on a system running Windows 8/10. [How to check?](https:
 4. Run Pong.exe *(hit 'run anyway' if a warning pops up)*
 5. Play the game!
 
-### Other
+## Other
 * The score isn't working properly
 * Paddle/ball movement could be refined
 
 
-### Tools
+## Tools
 * [Qt Creator](https://www.qt.io/product/development-tools) - Qt Creator is a cross-platform C++, JavaScript and QML integrated development environment
 
 
-### Authors
+## Authors
 
 * **David Bush**
