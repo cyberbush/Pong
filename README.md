@@ -1,2 +1,2 @@
-# Pong
-This project was built using Qt Creator!
+# Pong game
+This game was built using QT Creator!

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>Qt Pong Game</DisplayName>
+    <Description>Install the game</Description>
+    <Version>0.1.0-1</Version>
+    <ReleaseDate>2018-01-21</ReleaseDate>
+    <Licenses>
+        <License name="MIT Public License Agreement" file="license.txt" />
+    </Licenses>
+    <Default>script</Default>
+    <Script>installscript.qs</Script>
+    <UserInterfaces>
+        <UserInterface>page.ui</UserInterface>
+    </UserInterfaces>
+</Package>
