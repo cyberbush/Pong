@@ -14,7 +14,16 @@ First make sure you are on a system running Windows 8/10. [How to check?](https:
 4. Run Pong.exe (hit 'run anyway' if a warning pops up)
 5. Play the game!
 
+### Other
+```
+• Scores is not implemented yet
+• The algorithm for the computer paddle moves needs to be refined
+```
+
+### Tools
+* [Qt Creator](http://www.dropwizard.io/1.0.2/docs/) - Qt Creator is a cross-platform C++, JavaScript and QML integrated development environment
 
 
+### Authors
 
-
+* **Koffi Anderson Koffi**
