@@ -19,7 +19,7 @@ void Paddle::move(Paddle::MoveType moveType)
 
 void Paddle::randomMove(qreal ballY)
 {
-    // moves realitive to the ball's y position
+    // moves realitive to the ball's y position 
     MoveType m = ((y() - ballY) > -10) ? UP : DOWN;
     move(m);
 }
